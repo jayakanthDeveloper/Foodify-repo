@@ -1,7 +1,7 @@
 # 🍽️ Foodify – Online Food Ordering System
 
 <p>
-  <img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify/refs/heads/main/FoodifyLogo.png" alt="Foodify Logo" width="150">
+  <img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify-repo/refs/heads/main/FoodifyLogo.png" alt="Foodify Logo" width="150">
 </p>
 
 ---
@@ -73,18 +73,25 @@ Added **Order History**:
 
 ---
 
+
 ## 📷 Screenshots
 ### **Home Page** 
-<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify/refs/heads/main/Home%20page.png" alt="Homepage Screenshot" width="900">
+<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify-repo/refs/heads/main/Home%20page.png" alt="Homepage Screenshot" width="900">
 
 ### **All Restaurants** 
-<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify/refs/heads/main/All%20restaurants.png" alt="Homepage Screenshot" width="900">
+<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify-repo/refs/heads/main/All%20restaurants.png" alt="Homepage Screenshot" width="900">
 
 ### **All menu** 
-<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify/refs/heads/main/Menu.png" alt="Homepage Screenshot" width="900">
+<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify-repo/refs/heads/main/Menu.png" alt="Homepage Screenshot" width="900">
 
 ### **Cart page** 
-<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify/refs/heads/main/Cart%20page.png" alt="Homepage Screenshot" width="900">
+<img src="https://raw.githubusercontent.com/jayakanthDeveloper/Foodify-repo/refs/heads/main/Cart%20page.png" alt="Homepage Screenshot" width="900">
+
+---
+
+## See my code using this link👇🏿
+
+[Link Text](https://github.com/jayakanthDeveloper/Foodify.git)
 
 ---
 
