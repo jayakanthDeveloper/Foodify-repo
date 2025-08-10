@@ -91,7 +91,7 @@ Added **Order History**:
 
 ## See my code using this link👇🏿
 
-[(https://github.com/jayakanthDeveloper/Foodify.git)](https://github.com/jayakanthDeveloper/Foodify.git)
+[(https://github.com/jayakanthDeveloper/Foodify)](https://github.com/jayakanthDeveloper/Foodify)
 
 ---
 
